@@ -1,0 +1,7 @@
+.project
+.settings
+.classpath
+/bin
+/adt/src/32.png
+/adt/src/64.png
+/adt/src/README.txt
